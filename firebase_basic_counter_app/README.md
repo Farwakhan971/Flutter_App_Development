@@ -1,6 +1,6 @@
 # Registering Basic counter Flutter app with firebase
 
-1) firebase_Register
+1) App Registration with firebase
    
    ![firebase_1](https://github.com/Farwakhan971/Flutter_App_Development/assets/130717631/0afb1485-8eb6-4a5d-a923-be302c899bc3)
 
