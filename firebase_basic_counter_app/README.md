@@ -22,11 +22,6 @@
    ![firebase_4](https://github.com/Farwakhan971/Flutter_App_Development/assets/130717631/15a3b1ac-8eed-4f8d-aa24-8d622d328c7b)
 
 
-6) Link real-time database with the app
-
-![290097994-c6a83c2c-f836-4a71-b0b3-9f5fb386b0e4](https://github.com/Farwakhan971/Flutter_App_Development/assets/130717631/aea4fa0c-2a39-446f-80b7-f7ec371dfebc)
-
-
 Here is the video links for connecting firebase with app
 
 Firebase Connectivity Part-1
