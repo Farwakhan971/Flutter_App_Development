@@ -27,4 +27,11 @@
 ![290097994-c6a83c2c-f836-4a71-b0b3-9f5fb386b0e4](https://github.com/Farwakhan971/Flutter_App_Development/assets/130717631/aea4fa0c-2a39-446f-80b7-f7ec371dfebc)
 
 
+Here is the video links for connecting firebase with app
+Firebase Connectivity Part-1
 
+https://drive.google.com/file/d/1d6cpB_xNzmGuivZT2UehIO6xuV_wPNP9/view?usp=drive_link
+
+Firebase Connectivity Part-2
+
+https://drive.google.com/file/d/1HQbuyk6t88_PeJsvh6m-uDfzB-U26sUe/view?usp=drive_link
