@@ -1,4 +1,4 @@
-# udhaar_app_withfirebase_andsqlflite
+# customer_tracker_app_withfirebase_andsqlflite
 
 A new Flutter project.
 
