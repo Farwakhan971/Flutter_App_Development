@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "540835148923",
+    "project_id": "realtime-database-dedef",
+    "storage_bucket": "realtime-database-dedef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540835148923:android:fa34667ec93e319c92dede",
+        "android_client_info": {
+          "package_name": "com.example.realtime_database_udhaar_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjAkNgN0exrtFxCs7xX4dTiguWr5HwO44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
