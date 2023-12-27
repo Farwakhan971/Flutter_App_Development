@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "931503149684",
+    "project_id": "fir-apps-3ff1b",
+    "storage_bucket": "fir-apps-3ff1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931503149684:android:8fd5963ba0e992ee8cf721",
+        "android_client_info": {
+          "package_name": "com.example.udhaar_app_withfirebase_andsqlflite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt_yBqNLn5Pf-YAF7zZ39PdN7GHAhYVYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
