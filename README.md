@@ -6,13 +6,11 @@
 
 - "Flutter: Turning ideas into interactive symphonies of widgets." - *Anonymous*
 - "Where innovation conducts the harmony of user experiences." - *Anonymous*
-- "Flutter: Empowering developers to build beautiful, natively compiled applications for mobile, web, and desktop from a single codebase." - *Anonymous*
 
 ## Images
 
-![Image 1](https://via.placeholder.com/500)
-![Image 2](https://via.placeholder.com/500)
-![Image 3](https://via.placeholder.com/500)
+
+![Flutter-1024x512](https://github.com/Farwakhan971/Flutter_App_Development/assets/130717631/ad2a36da-1a11-467f-be36-2b010421fa93)
 
 
 
