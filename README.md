@@ -1,7 +1,5 @@
 # Flutter Development
 
-![Flutter Logo](https://flutter.dev/assets/homepage/header-logo-2x.png)
-
 ## Quotes
 
 - "Flutter: Turning ideas into interactive symphonies of widgets." - *Anonymous*
